@@ -26,6 +26,7 @@ O projeto foi desenvolvido utilizando a API **JAX-WS**, criada para uso em **ser
 ---
 
 ##  Estrutura da Aplicação Servidor
+![Descrição da imagem](/estrutura.png)
 
 ```
 src/
@@ -78,6 +79,7 @@ src/
 ---
 
 ## Testando com Postman 
+
 
 Você pode testar o serviço enviando uma requisição SOAP do tipo `POST` para o endpoint:
 
